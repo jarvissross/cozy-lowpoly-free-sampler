@@ -1,0 +1,117 @@
+{
+  "pack": "Cozy Sampler (CC0)",
+  "license": "CC0 1.0",
+  "blender": "5.2.2 LTS",
+  "models": [
+    {
+      "name": "Snowy_Pine",
+      "from_pack": "cozy-winter",
+      "triangles": 112,
+      "dimensions_m": [
+        1.852,
+        1.807,
+        2.712
+      ],
+      "materials": [
+        "Bark",
+        "SnowShade",
+        "PineDark",
+        "Snow",
+        "Pine"
+      ],
+      "max_metallic": 0.0,
+      "files": [
+        "glb/Snowy_Pine.glb",
+        "fbx/Snowy_Pine.fbx"
+      ]
+    },
+    {
+      "name": "Pumpkin_Trio",
+      "from_pack": "cozy-autumn",
+      "triangles": 536,
+      "dimensions_m": [
+        1.185,
+        0.892,
+        0.439
+      ],
+      "materials": [
+        "PumpkinOrange",
+        "Stem",
+        "PumpkinDeep",
+        "PumpkinCream",
+        "Vine"
+      ],
+      "max_metallic": 0.0,
+      "files": [
+        "glb/Pumpkin_Trio.glb",
+        "fbx/Pumpkin_Trio.fbx"
+      ]
+    },
+    {
+      "name": "Buoy_Set",
+      "from_pack": "cozy-harbor",
+      "triangles": 292,
+      "dimensions_m": [
+        1.47,
+        0.75,
+        1.142
+      ],
+      "materials": [
+        "BuoyRed",
+        "HullWhite",
+        "Iron",
+        "BuoyGreen",
+        "BuoyYellow",
+        "Wood"
+      ],
+      "max_metallic": 0.0,
+      "files": [
+        "glb/Buoy_Set.glb",
+        "fbx/Buoy_Set.fbx"
+      ]
+    },
+    {
+      "name": "Tackle_Box",
+      "from_pack": "cozy-lakeside",
+      "triangles": 84,
+      "dimensions_m": [
+        0.52,
+        0.29,
+        0.35
+      ],
+      "materials": [
+        "TackleGreen",
+        "TackleDark",
+        "Galvanized"
+      ],
+      "max_metallic": 0.0,
+      "files": [
+        "glb/Tackle_Box.glb",
+        "fbx/Tackle_Box.fbx"
+      ]
+    },
+    {
+      "name": "Bread_Basket",
+      "from_pack": "cozy-market",
+      "triangles": 836,
+      "dimensions_m": [
+        0.818,
+        0.536,
+        0.247
+      ],
+      "materials": [
+        "Wicker",
+        "WickerDark",
+        "ClothRed",
+        "Bread",
+        "BreadLight"
+      ],
+      "max_metallic": 0.0,
+      "files": [
+        "glb/Bread_Basket.glb",
+        "fbx/Bread_Basket.fbx"
+      ]
+    }
+  ],
+  "total_triangles": 1860
+}
